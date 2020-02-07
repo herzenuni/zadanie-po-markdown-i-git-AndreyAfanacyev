@@ -80,7 +80,7 @@ zadanie-po-markdown-i-git-AndreyAfanacyev created by GitHub Classroom
 
 
 
-(![Кафедра КТиЭО](https://ict.herzen.spb.ru/user/themes/bootstrap/images/master-photos/DSCN0951.JPG)
+![Кафедра КТиЭО](https://ict.herzen.spb.ru/user/themes/bootstrap/images/master-photos/DSCN0951.JPG)
 
 
 
